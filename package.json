@@ -16,5 +16,13 @@
   "bugs": {
     "url": "https://github.com/RicardoFreitasAraujo/tdd-node-rocketseat/issues"
   },
-  "homepage": "https://github.com/RicardoFreitasAraujo/tdd-node-rocketseat#readme"
+  "homepage": "https://github.com/RicardoFreitasAraujo/tdd-node-rocketseat#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "pg": "^8.6.0",
+    "sequelize": "^6.6.2"
+  },
+  "devDependencies": {
+    "sequelize-cli": "^6.2.0"
+  }
 }
