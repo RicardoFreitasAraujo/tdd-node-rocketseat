@@ -1,0 +1,20 @@
+{
+  "name": "tdd-node-rocketseat",
+  "version": "1.0.0",
+  "description": "TDD em Node, conforme aula: https://www.youtube.com/watch?v=2G_mWfG0DZE",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RicardoFreitasAraujo/tdd-node-rocketseat.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RicardoFreitasAraujo/tdd-node-rocketseat/issues"
+  },
+  "homepage": "https://github.com/RicardoFreitasAraujo/tdd-node-rocketseat#readme"
+}
